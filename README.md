@@ -20,9 +20,6 @@ which can cascade into full workflow failure. This project focuses on making the
 - **Sandbox Executor:** runs code safely with time/memory limits
 - **Open-WebUI Integration:** makes the loop usable for testing/debugging
 
-See: `docs/architecture.md` and `docs/protocol.md`.
 
-## Quick Start (Local Demo)
-### Option A: Docker
-```bash
-docker compose -f docker/docker-compose.yml up --build
+
+
